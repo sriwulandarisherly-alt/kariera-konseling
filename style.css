@@ -81,7 +81,7 @@ body {
 @media(max-width:991px) {
     .hero::before {
         width: 100%;
-        background: linear-gradient(rgba(255, 255, 255, .75), rgba(255, 255, 255, .75)), url(hero.jpg) center/cover;
+        background: linear-gradient(rgba(255, 255, 255, .75), rgba(255, 255, 255, .75)), url(img/hero.jpg) center/cover;
         -webkit-mask-image: none;
         mask-image: none
     }
